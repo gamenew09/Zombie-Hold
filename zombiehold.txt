@@ -1,0 +1,14 @@
+"superkillers"
+{
+	"base"		"sandbox"
+	"title"		"Zombie Hold"
+	"maps"		"^rp_"
+	"menusystem"	"1"
+	"workshopid"	""
+
+	"settings"
+	{
+	  
+	}
+
+}
